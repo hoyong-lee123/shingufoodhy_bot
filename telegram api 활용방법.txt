@@ -1,0 +1,13 @@
+# 🤖 [보충자료] 텔레그램 식단 알림 봇 연동 가이드
+
+텔레그램(Telegram) API 연동을 위한 가이드입니다.
+
+## 🛠️ 1단계: 나만의 봇 생성 (BotFather 활용)
+1. @BotFather를 통해 봇을 생성합니다.
+2. API 토큰(Token)을 확인합니다.
+
+## 🆔 2단계: 나의 채팅방 ID (Chat ID) 확인하기
+1. @userinfobot 등을 통해 본인의 Chat ID를 확인합니다.
+
+## 🐍 3단계: 파이썬 코드에 연결하기
+코드의 `TELEGRAM_BOT_TOKEN`과 `TELEGRAM_CHAT_ID` 변수에 본인의 정보를 입력하세요.
