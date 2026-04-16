@@ -8,6 +8,5 @@ __pycache__/
 Thumbs.db
 
 # Project specific
-*.pdf
 .vscode/
 .idea/
